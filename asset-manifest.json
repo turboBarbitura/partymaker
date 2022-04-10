@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/partymaker/static/css/main.18941bb6.css",
+    "main.js": "/partymaker/static/js/main.362ea60a.js",
+    "index.html": "/partymaker/index.html",
+    "main.18941bb6.css.map": "/partymaker/static/css/main.18941bb6.css.map",
+    "main.362ea60a.js.map": "/partymaker/static/js/main.362ea60a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18941bb6.css",
+    "static/js/main.362ea60a.js"
+  ]
+}
